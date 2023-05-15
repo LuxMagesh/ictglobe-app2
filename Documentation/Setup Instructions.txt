@@ -1,0 +1,15 @@
+The Command Line App Setup Instructions
+
+1. Download the Zip Folder from Github and Place the project in your Htdocs folder
+
+2. MySQL database file is available in the root folder it's called ictglobe.sql and also in the Documentation Folder.
+   basic create this in your phpmyadmin and import the database.
+
+3. Open the project using VS Code and open the Terminal and run the command "php artisan serve"
+
+I hope all is in order , my machine had a compatibilty issue with the Docker environment, I hope this 
+will not damage my application. This forced me into an alternative solution.
+
+
+4. Test Details are : Username : user1@gmail.com and Password : User12345
+	The app allows you to register your own users.
